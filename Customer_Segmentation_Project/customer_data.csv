@@ -1,0 +1,61 @@
+Customer_ID,Age,Gender,City,Annual_Income,Spending_Score,Purchase_Frequency,Avg_Order_Value,Total_Spend,Website_Visits,Preferred_Category
+1001,50,Female,Bengaluru,84592,75,23,5253,4506,27,Beauty
+1002,32,Female,Mumbai,125302,76,12,3767,4291,27,Beauty
+1003,43,Female,Kolkata,98893,89,21,5278,2553,44,Grocery
+1004,38,Male,Bengaluru,90379,81,24,5757,3337,22,Grocery
+1005,41,Male,Bengaluru,104671,100,12,6763,6892,23,Beauty
+1006,39,Female,Delhi,117400,93,15,3569,2875,41,Electronics
+1007,37,Male,Pune,83238,87,16,6714,5488,25,Fashion
+1008,51,Female,Chennai,104993,97,22,3584,3901,37,Home & Kitchen
+1009,42,Male,Hyderabad,105382,95,23,7562,4299,41,Fashion
+1010,31,Male,Mumbai,111347,87,16,3542,4228,49,Home & Kitchen
+1011,42,Male,Kolkata,130142,79,16,4143,4520,43,Beauty
+1012,42,Female,Bengaluru,117447,82,14,7174,6542,22,Fashion
+1013,35,Male,Delhi,84596,58,7,2776,2563,29,Beauty
+1014,25,Male,Bengaluru,84583,68,7,3399,4075,18,Grocery
+1015,52,Female,Delhi,50365,59,6,2278,3050,15,Beauty
+1016,37,Female,Pune,50016,56,8,3409,4189,26,Home & Kitchen
+1017,26,Female,Bengaluru,47331,74,11,2459,1980,11,Electronics
+1018,56,Female,Delhi,44535,69,14,1715,1525,25,Beauty
+1019,52,Male,Pune,53880,74,14,2023,3920,19,Home & Kitchen
+1020,58,Female,Mumbai,69588,48,9,2120,1262,20,Beauty
+1021,39,Male,Bengaluru,40471,47,6,2137,1276,11,Beauty
+1022,40,Male,Mumbai,58250,66,13,2077,3208,14,Home & Kitchen
+1023,51,Male,Ahmedabad,52478,48,7,2965,2451,23,Electronics
+1024,31,Female,Ahmedabad,43972,57,11,1647,2018,16,Fashion
+1025,52,Female,Hyderabad,52025,53,13,2223,1308,24,Beauty
+1026,25,Male,Mumbai,46112,74,9,1881,2664,25,Home & Kitchen
+1027,28,Male,Kolkata,50789,57,6,2799,2086,24,Beauty
+1028,56,Female,Pune,50144,51,10,2091,1239,28,Electronics
+1029,23,Female,Chennai,56246,36,8,1587,622,5,Electronics
+1030,58,Female,Hyderabad,29453,41,8,981,1126,6,Beauty
+1031,25,Male,Mumbai,52474,41,6,1657,1370,10,Grocery
+1032,35,Female,Hyderabad,42407,32,3,1114,1236,10,Home & Kitchen
+1033,59,Female,Pune,31552,22,6,936,1336,9,Electronics
+1034,35,Male,Hyderabad,49217,29,3,1397,1412,16,Beauty
+1035,39,Female,Delhi,31788,50,3,1041,536,6,Grocery
+1036,58,Male,Ahmedabad,38803,42,4,916,1707,15,Grocery
+1037,23,Male,Chennai,31048,40,5,1066,390,5,Grocery
+1038,30,Female,Bengaluru,53956,37,7,1375,1448,5,Fashion
+1039,54,Male,Chennai,27361,46,4,1692,1431,7,Electronics
+1040,39,Female,Bengaluru,48897,48,8,581,1032,8,Grocery
+1041,55,Female,Chennai,51632,39,7,816,784,18,Home & Kitchen
+1042,21,Female,Delhi,36754,43,4,1343,1671,18,Fashion
+1043,64,Female,Ahmedabad,32084,32,8,579,1263,8,Grocery
+1044,39,Male,Bengaluru,39915,27,2,895,1116,10,Grocery
+1045,29,Female,Bengaluru,87040,67,9,2191,2696,25,Grocery
+1046,23,Male,Kolkata,83049,51,3,1022,2279,26,Beauty
+1047,34,Male,Hyderabad,52578,59,6,1321,681,37,Beauty
+1048,35,Male,Pune,90013,47,8,1683,786,45,Electronics
+1049,27,Male,Chennai,78234,54,9,1468,2148,37,Fashion
+1050,31,Female,Delhi,88576,59,5,2060,1732,27,Grocery
+1051,24,Female,Ahmedabad,73173,55,10,1704,2311,36,Fashion
+1052,39,Male,Mumbai,50557,53,8,991,1462,36,Fashion
+1053,22,Male,Mumbai,46600,37,6,1773,798,29,Home & Kitchen
+1054,33,Female,Kolkata,71191,50,5,2143,522,43,Fashion
+1055,23,Female,Ahmedabad,97698,68,10,902,2783,22,Fashion
+1056,32,Male,Ahmedabad,88750,68,8,2346,2312,34,Fashion
+1057,33,Male,Mumbai,74495,51,6,2105,1635,39,Grocery
+1058,32,Female,Chennai,50077,53,6,1356,1875,25,Fashion
+1059,25,Male,Ahmedabad,70102,44,6,931,2199,28,Home & Kitchen
+1060,19,Male,Ahmedabad,58555,61,9,2376,580,42,Electronics
