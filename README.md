@@ -39,7 +39,4 @@ Customer-Segmentation-Project/
 │   └── requirements.txt
 │
 └── README.md
-<img width="1847" height="906" alt="Screenshot 2026-08-14 200542" src="https://github.com/user-attachments/assets/7c6db1cf-c51c-4936-a5b7-2f7a5c1587af" />
-<img width="1852" height="930" alt="Screenshot 2026-08-14 200452" src="https://github.com/user-attachments/assets/121f84a3-e8ea-4078-b45c-c4f2f2fa313f" />
-
 
