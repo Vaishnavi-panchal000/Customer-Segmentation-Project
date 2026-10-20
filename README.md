@@ -29,7 +29,7 @@ The project uses K-Means Clustering to group customers into four segments:
 
 ## Project Structure
 
-```text
+
 Customer-Segmentation-Project/
 │
 ├── Customer_Segmentation_Project/
